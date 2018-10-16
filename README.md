@@ -138,4 +138,7 @@ Don't worry if you find the syntax for rendering a partial hard to remember â€“â
 ## Resources
 * [RailsGuide: Partials](http://guides.rubyonrails.org/layouts_and_rendering.html#using-partials)
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-partial-locals-reading/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-partial-locals-reading/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Partials with Locals</p>
